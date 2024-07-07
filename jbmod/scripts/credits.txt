@@ -1,0 +1,93 @@
+"credits.txt"
+{
+
+"IntroCreditsNames"
+{
+	   "JBMOD 0.5.4"	          "ClientTitleFont"
+       "Char's Forest..." "Trebuchet24"
+       "A map by:"	  "CreditsText"
+       " "	          "CreditsText"
+       "STRESSED CAT IN A BOX - [U:1:327570771]"             "CreditsText"
+       " " 	          "CreditsText"
+	   "Pumpkinworks - [U:1:393940256]"						 "CreditsText"
+	   " " 	          "CreditsText"
+	   "and the JBMod community"						 "CreditsText"
+	   " " 	          "CreditsText"
+       "Reltoids beware..."	          "CreditsText"
+	   "you're in for a scare..."	          "CreditsText"
+}
+
+"CreditsParams"
+{
+	"logo" "JBMOD 0.5.4"
+	
+	"fadeintime"	"2.5"
+	"fadeouttime"	"1"
+	"fadeholdtime"	"1.0"
+	"nextfadetime"	"1.0"
+	"pausebetweenwaves" "1.0"
+	"logotime" "4.0"
+	"posx"	"96"
+	"posy"	"360"
+
+	"color" "255 255 255 128"
+	
+	
+//Outro Parameters
+	"scrolltime" "64"
+	"separation"  "10"
+
+}
+
+"OutroCreditsNames"
+{
+	"JBMOD 0.5.4"	"ClientTitleFont"
+	" "	"CreditsOutroText"
+	"JB55"	"ClientTitleFont"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Char's Forest - Credits"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Mappers:"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"STRESSED CAT IN A BOX - [U:1:327570771]"	"CreditsOutroText"
+	"Pumpkinworks - [U:1:393940256]"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Playtesters:"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Adi DK - [U:1:361546418]"	"CreditsOutroText"
+	"MaybeShune - [U:1:1128897949]"	"CreditsOutroText"
+	"banditboogaloo - [U:1:1105772617]"	"CreditsOutroText"
+	"JBMan - [U:1:1016836493]"	"CreditsOutroText"
+	"D-113CR - [U:1:258908324]"	"CreditsOutroText"
+	"Sogel - [U:1:448892807]"	"CreditsOutroText"
+	"NotBart - [U:1:911906807]"	"CreditsOutroText"
+	"Unfinished - [U:1:166198203]"	"CreditsOutroText"
+	"wzlk - [U:1:456466260]"	"CreditsOutroText"
+	"Rake - [U:1:373574853]"	"CreditsOutroText"
+	"A few people originating from Richter Blobbertime's Discord server"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Audio credits:"	"CreditsOutroText"
+	"SCP - Containment Breach (various horror sound effects)"	"CreditsOutroText"
+	"Kevin Macleod (enraged Char musisic)"	"CreditsOutroText"
+	"Karten Koch (Credits music)"	"CreditsOutroText"
+	"Relt - [U:1:273185444] (TAYKE MAYH MEDZ!?)"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Special thanks to:"   "CreditsOutroText"
+	"JB55 - for making this all possible"	"CreditsOutroText"
+	"Snakez - for releasing JBMod on Steam, and teaching us to be patient"	"CreditsOutroText"
+	"JBMod's Discord community - for everything"	"CreditsOutroText"
+	"Char - for being a pedophile"	"CreditsOutroText"
+	"LonelyAndLookin4Fun - for being a pedophile"	"CreditsOutroText"
+	"Relt - for taking his meds"	"CreditsOutroText"
+	"Trevor - for being overly confident"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Thanks to the following for the use of their faces:"   "CreditsOutroText"
+	"Relt - [U:1:273185444] (comment take my meds on his profile)"	"CreditsOutroText"
+}
+
+}
