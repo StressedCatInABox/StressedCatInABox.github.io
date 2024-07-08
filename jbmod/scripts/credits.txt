@@ -73,6 +73,7 @@
 	"Unfinished - [U:1:166198203]"	"CreditsOutroText"
 	"wzlk - [U:1:456466260]"	"CreditsOutroText"
 	"Rake - [U:1:373574853]"	"CreditsOutroText"
+	"Slim - [U:1:107102589]"	"CreditsOutroText"
 	"A few people originating from Richter Blobbertime's Discord server"	"CreditsOutroText"
 	" "	"CreditsOutroText"
 	" "	"CreditsOutroText"
